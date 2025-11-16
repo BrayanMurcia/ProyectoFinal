@@ -1,0 +1,4 @@
+Características principales de un proyecto con Git
+Control de versiones: Se registran todos los cambios, incluyendo quién hizo qué y cuándo.
+Colaboración: Facilita que múltiples personas trabajen juntas, evitando conflictos al gestionar cambios de forma independiente en ramas separadas.
+Ramificación y fusión: Permite crear ramas para desarrollar nuevas funcionalidades en paralelo y luego fusionarlas de forma inteligente al tronco principal del proyecto.
