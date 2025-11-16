@@ -1,0 +1,5 @@
+¿Por qué usar Git para un proyecto?
+Eficiencia: Git fue diseñado pensando en la eficiencia y la escalabilidad, especialmente para proyectos con muchos archivos.
+Flexibilidad: Es compatible con una gran variedad de entornos de desarrollo y sistemas operativos.
+Estándar de la industria: Se ha convertido en un estándar de facto para el desarrollo de software en la actualidad.
+Reversión de errores: Si un desarrollador introduce un error, puede volver fácilmente a una versión anterior y estable del código. 
