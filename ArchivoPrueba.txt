@@ -1,0 +1,1 @@
+Un proyecto con Git es un proyecto de desarrollo de software cuyo código fuente está bajo control de versiones, lo que permite registrar, rastrear y gestionar los cambios a lo largo del tiempo.
